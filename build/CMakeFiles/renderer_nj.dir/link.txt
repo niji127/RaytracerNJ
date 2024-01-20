@@ -1,0 +1,3 @@
+D:\Code\Cmake\bin\cmake.exe -E rm -f CMakeFiles\renderer_nj.dir/objects.a
+D:\Code\mingw64\bin\ar.exe qc CMakeFiles\renderer_nj.dir/objects.a @CMakeFiles\renderer_nj.dir\objects1.rsp
+D:\Code\mingw64\bin\g++.exe -fopenmp -O3 -DNDEBUG -Wl,--whole-archive CMakeFiles\renderer_nj.dir/objects.a -Wl,--no-whole-archive -o D:\CG\RaytracerNJ\bin\renderer_nj.exe -Wl,--out-implib,D:\CG\RaytracerNJ\bin\librenderer_nj.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\renderer_nj.dir\linkLibs.rsp

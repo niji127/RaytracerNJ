@@ -1,0 +1,44 @@
+[
+{
+  "directory": "D:/CG/RaytracerNJ/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\BVH.cpp.obj -c D:\\CG\\RaytracerNJ\\src\\BVH.cpp",
+  "file": "D:/CG/RaytracerNJ/src/BVH.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/BVH.cpp.obj"
+},
+{
+  "directory": "D:/CG/RaytracerNJ/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\camera.cpp.obj -c D:\\CG\\RaytracerNJ\\src\\camera.cpp",
+  "file": "D:/CG/RaytracerNJ/src/camera.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/camera.cpp.obj"
+},
+{
+  "directory": "D:/CG/RaytracerNJ/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\main.cpp.obj -c D:\\CG\\RaytracerNJ\\src\\main.cpp",
+  "file": "D:/CG/RaytracerNJ/src/main.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/main.cpp.obj"
+},
+{
+  "directory": "D:/CG/RaytracerNJ/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\object.cpp.obj -c D:\\CG\\RaytracerNJ\\src\\object.cpp",
+  "file": "D:/CG/RaytracerNJ/src/object.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/object.cpp.obj"
+},
+{
+  "directory": "D:/CG/RaytracerNJ/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\renderer.cpp.obj -c D:\\CG\\RaytracerNJ\\src\\renderer.cpp",
+  "file": "D:/CG/RaytracerNJ/src/renderer.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/renderer.cpp.obj"
+},
+{
+  "directory": "D:/CG/RaytracerNJ/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\scene.cpp.obj -c D:\\CG\\RaytracerNJ\\src\\scene.cpp",
+  "file": "D:/CG/RaytracerNJ/src/scene.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/scene.cpp.obj"
+},
+{
+  "directory": "D:/CG/RaytracerNJ/build",
+  "command": "D:\\Code\\mingw64\\bin\\g++.exe  @CMakeFiles/renderer_nj.dir/includes_CXX.rsp -fopenmp -O3 -DNDEBUG -o CMakeFiles\\renderer_nj.dir\\src\\triangle.cpp.obj -c D:\\CG\\RaytracerNJ\\src\\triangle.cpp",
+  "file": "D:/CG/RaytracerNJ/src/triangle.cpp",
+  "output": "CMakeFiles/renderer_nj.dir/src/triangle.cpp.obj"
+}
+]
