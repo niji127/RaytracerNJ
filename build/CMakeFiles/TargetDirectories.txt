@@ -1,3 +1,0 @@
-D:/CG/RaytracerNJ/build/CMakeFiles/renderer_nj.dir
-D:/CG/RaytracerNJ/build/CMakeFiles/edit_cache.dir
-D:/CG/RaytracerNJ/build/CMakeFiles/rebuild_cache.dir
